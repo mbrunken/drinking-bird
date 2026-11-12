@@ -4,6 +4,8 @@ A small macOS app that keeps pressing **Enter** (or **⌘ + Enter**) for you whi
 
 Every time it presses the key, an animated drinking bird in a top hat dips its beak into a glass of water or pecks the Enter key on a little keyboard.
 
+![Drinking Bird pecking the Enter key](docs/screenshot.png)
+
 ## Features
 
 - Floating window that stays on top, so you can watch the bird while Claude is in front

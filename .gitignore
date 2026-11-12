@@ -4,6 +4,7 @@
 
 # Original reference image
 *.png
+!docs/*.png
 
 .DS_Store
 *.zip
