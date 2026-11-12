@@ -1,0 +1,9 @@
+# Build output
+.build/
+*.app/
+
+# Original reference image
+*.png
+
+.DS_Store
+*.zip
